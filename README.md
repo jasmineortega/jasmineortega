@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmineortega
 - 👀 I’m interested in intergrating agriculture + computational analytics.
-- 🌱 I’m currently learning... everything! But concentrating on Python, very different than C++!
+- 🌱 I’m currently learning... everything! But concentrating on data analysis in Python.
 - 💞️ I’m looking to collaborate on non-profit, sustainability-oriented work.
 
 <!---
