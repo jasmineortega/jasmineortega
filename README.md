@@ -9,5 +9,5 @@ Passionate about building data products. I recently made a foray into digital bu
 
 When I'm not at my computer, I can be found at the gym, feeding my sourdough starter, or scouring the thrift store for turtleneck sweaters :mag:
 
-Feel free to reach out to connect with me on [LinkedIn!](https://www.linkedin.com/in/jasmine-ortega/)
+Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/jasmine-ortega/)
 
